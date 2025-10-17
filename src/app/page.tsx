@@ -328,7 +328,7 @@ export default function FestaArte() {
               repeat: Infinity,
             }}
           >
-            22ª FESTA DA APEOC
+            XXII FESTA DA APEOC
           </motion.h1>
 
           <motion.div
